@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "angular",
+      "text": "Angular is a popular open-source web application framework developed by Google "
+    },
+    {
+      "id": 2,
+      "title": "sql",
+      "text": "sql is a query language"
+    }
+  ]
+}
